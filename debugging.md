@@ -1591,6 +1591,12 @@ See also: [RR](#rr), [WinDbg - Time Travel Debugging](https://github.com/MattPD/
 - A Debugging Tip: Write Custom Visualizers in Visual Studio
 	- https://www.cppstories.com/2021/natvis-dbg-tip/
 	- https://github.com/fenbf/articles/tree/master/DebuggingTipsSamples
+- Your Optimized Code Can Be Debugged - Here's How With MSVC C++ Dynamic Debugging
+	- MSVC C++ Dynamic Debugging: How We Enabled Full Debuggability of Optimized Code
+	- CppCon 2025
+	- Eric Brumer
+	- https://www.youtube.com/watch?v=YnbO140OXuI
+	- https://github.com/CppCon/CppCon2025/blob/main/Presentations/MSVC_Cpp_Dynamic_Debugging.pdf
 
 #### WinDbg
 
