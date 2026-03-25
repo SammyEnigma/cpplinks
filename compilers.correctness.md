@@ -1402,6 +1402,12 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md): 
 
 #### Testing: Readings: Performance Optimization: 2025
 
+- Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations
+	- FSE 2025 Ideas, Visions and Reflections
+	- Jingwen Wu, Jiajing Zheng, Zhenyu Yang, Zhongxing Yu
+	- https://doi.org/10.1145/3696630.3728528
+	- https://arxiv.org/abs/2504.04321
+	- https://github.com/newolekcul/Optimization-testing
 - Finding Missed Code Size Optimizations in Compilers using LLMs
 	- International Conference on Compiler Construction (CC) 2025
 	- Davide Italiano, Chris Cummins
