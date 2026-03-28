@@ -2316,6 +2316,11 @@ See also: [Computer Architecture](comparch.md)
 	- Network and Distributed System Security Symposium (NDSS) 2026
 	- Hongyue Jin, Yanan Guo, Zhenkai Zhang
 	- https://www.ndss-symposium.org/ndss-paper/exploiting-tlbs-in-virtualized-gpus-for-cross-vm-side-channel-attacks/
+- Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel
+	- Network and Distributed System Security Symposium (NDSS) 2026
+	- Rui Xiao, Sibo Feng, Soundarya Ramesh, Jun Han, Jinsong Han
+	- https://www.ndss-symposium.org/ndss-paper/peering-inside-the-black-box-long-range-and-scalable-model-architecture-snooping-via-gpu-electromagnetic-side-channel/
+	- https://doi.org/10.5281/zenodo.17080117
 
 ## GPU: 2024
 
