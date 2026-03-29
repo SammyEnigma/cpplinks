@@ -1408,6 +1408,16 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md): 
 	- https://doi.org/10.1145/3696630.3728528
 	- https://arxiv.org/abs/2504.04321
 	- https://github.com/newolekcul/Optimization-testing
+- DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure
+	- OOPSLA 2025
+	- Chenyao Suo, Jianrong Wang, Yongjia Wang, Jiajun Jiang, Qingchao Shen, Junjie Chen
+	- https://arxiv.org/abs/2504.01379
+	- https://doi.org/10.1145/3763161
+	- https://xgdsmileboy.github.io/files/paper/oopsla25.pdf
+	- DESIL (DEtecting SILent bugs): a novel technique that jointly generates UB-free programs and determines an optimal lowering path for each program to facilitate e#ective bug detection
+		- https://github.com/tju-chenyaosuo/DESIL
+	- MLIR-FUZZ-LTS: Long time support for MLIRSmith, MLIRod, and DESIL
+		- https://github.com/tju-chenyaosuo/MLIR-FUZZ-LTS
 - Finding Missed Code Size Optimizations in Compilers using LLMs
 	- International Conference on Compiler Construction (CC) 2025
 	- Davide Italiano, Chris Cummins
