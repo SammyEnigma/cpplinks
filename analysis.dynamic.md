@@ -505,6 +505,18 @@ Compiler-Based Static Instrumentation
 		- Konstantin Serebryany, Alexander Potapenko, Timur Iskhodzhanov, Dmitry Vyukov
 		- https://research.google/pubs/pub37278/
 
+##### Software: Sanitizers: Readings: Research: 2026
+
+- Triton-Sanitizer: A Fast and Device-Agnostic Memory Sanitizer for Triton with Rich Diagnostic Context
+	- ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2026
+	- Hao Wu, Qidong Zhao, Songqing Chen, Yang Chen, Yueming Hao, Tony CW Liu, Sijia Chen, Adnan Aziz, Keren Zhou
+	- https://doi.org/10.1145/3779212.3790241
+	- https://deep-learning-profiling-tools.github.io/CAT-Lab/publication/triton-sanitizer_asplos2026/
+	- Artifacts:
+		- https://github.com/Deep-Learning-Profiling-Tools/TritonSanitizer-Experiments
+		- ASPLOS-26-AE: https://doi.org/10.5281/zenodo.17925530
+		- TritonSanitizer-Experiments: https://doi.org/10.5281/zenodo.18363705
+
 ##### Software: Sanitizers: Readings: Research: 2025
 
 - CMASan: Custom Memory Allocator-aware Address Sanitizer
