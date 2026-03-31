@@ -135,6 +135,11 @@
 
 ## C++26: Trip Reports
 
+### C++26: Trip Reports: 2026-03
+
+- Report from the Croydon 2026 ISO C++ Committee meeting
+	- https://mpusz.github.io/mp-units/HEAD/blog/2026/03/28/report-from-the-croydon-2026-iso-c-committee-meeting/
+
 ### C++26: Trip Reports: 2025-11
 
 - Trip report: November 2025 ISO C++ standards meeting (Kona, USA)
