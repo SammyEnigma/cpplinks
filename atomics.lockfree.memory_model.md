@@ -1005,6 +1005,11 @@
 	- Gonzalo Brito Gadeschi
 	- https://www.youtube.com/watch?v=aUwv2vlOZK4
 	- https://llvm.org/devmtg/2024-10/slides/quicktalks/Brito-Atomic-reductions.pdf
+- C++ Memory Model from C++11 to C++23
+	- Alex Dathskovsky
+	- C++Now 2024
+	- https://www.youtube.com/watch?v=VWiUYbtSWRI
+	- https://github.com/boostcon/cppnow_presentations_2024/blob/main/Presentations/Cpp_Memory_Model.pdf
 - Introduction to Wait-free Algorithms in C++ Programming
 	- CppCon 2024
 	- Daniel Anderson
