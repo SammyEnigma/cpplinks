@@ -176,6 +176,12 @@ See also:
 
 ## Readings: GPU
 
+- Challenges and Design Considerations for Finding CUDA Bugs Through GPU-Native Fuzzing
+	- HotEthics 2026
+	- Mingkai Li, Joseph Devietti, Suman Jana, Tanvir Ahmed Khan
+	- https://arxiv.org/abs/2603.05725
+	- https://mingkai-li.github.io/assets/pdf/hotethics26-gpufuzz.pdf
+	- https://mingkai-li.github.io/assets/slides/hotethics-26.pptx
 - Hunting CUDA Bugs at Scale with cuFuzz
 	- OOPSLA 2026
 	- Mohamed Tarek Ibn ziad, Christos Kozyrakis
