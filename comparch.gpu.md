@@ -61,6 +61,14 @@ See also: [computer architecture](comparch.md)
 
 ## Communication: Readings
 
+### Communication: Readings: 2026
+
+- MSCCL++: Rethinking GPU Communication Abstractions for AI Inference
+	- ASPLOS 2026
+	- Changho Hwang, Peng Cheng, Roshan Dathathri, Abhinav Jangda, Saeed Maleki, Madan Musuvathi, Olli Saarikivi, Aashaka Shah, Ziyue Yang, Binyang Li, Caio Rocha, Qinghua Zhou, Mahdieh Ghazimirsaeed, Sreevatsa Anantharamu, Jithin Jose
+	- https://arxiv.org/abs/2504.09014
+	- https://doi.org/10.1145/3779212.3790188
+
 ### Communication: Readings: 2025
 
 - Collective Communication for 100k+ GPUs
