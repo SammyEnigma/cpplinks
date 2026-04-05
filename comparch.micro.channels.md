@@ -3460,6 +3460,10 @@ https://software.intel.com/security-software-guidance/insights/refined-speculati
 	- https://hal.science/hal-03798342
 	- https://github.com/MIAOUS-group/port-contention-without-smt
 	- https://link.springer.com/chapter/10.1007/978-3-031-17143-7_11
+- PortRush: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing
+	- Network and Distributed System Security Symposium (NDSS) 2026
+	- Peihong Lin, Pengfei Wang, Lei Zhou, Gen Zhang, Xu Zhou, Wei Xie, Zhiyuan Jiang, Kai Lu
+	- https://www.ndss-symposium.org/ndss-paper/portrush-detect-write-port-contention-side-channel-vulnerabilities-via-hardware-fuzzing/
 
 ---
 
