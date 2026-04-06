@@ -661,6 +661,13 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md)
 	- https://doi.org/10.1109/ICSE55347.2025.00025
 	- OPERA (OPERator Adapter) a migration-based technique to test DL (Deep Learning) compilers (especially the model loading stage)
 	- https://github.com/ShenQingchao/OPERA
+- Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration
+	- International Conference on Automated Software Engineering (ASE) 2025
+	- Jingjing Liang, Shan Huang, Ting Su
+	- https://doi.org/10.1109/ASE63991.2025.00059
+	- https://tingsu.github.io/files/ASE25-MLIR.pdf
+	- LOBE: LOwering Bug Explorer
+		- https://github.com/ecnusse/LOBE
 - MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers
 	- NDSS 2025
 	- Dongwei Xiao, Zhibo Liu, Yiteng Peng, Shuai Wang
