@@ -528,6 +528,11 @@ See also:
 	- https://www.akkadia.org/drepper/dsohowto.pdf
 - Inlining — shared libraries are special
 	- https://kristerw.blogspot.com/2016/11/inlining-shared-libraries-are-special.html
+- Linux ELF Dynamic Linking
+	- 2026-04-05
+	- Facu de la Cruz (tty0)
+	- https://fmdlc.github.io/tty0/articles/linux-elf-dynamic-linking/Linux_ELF_Dynamic_linking_EN.html
+	- https://github.com/fmdlc/tty0/tree/main/articles/linux-elf-dynamic-linking
 - Luci: Loader-based Dynamic Software Updates for Off-the-shelf Shared Objects
 	- USENIX Annual Technical Conference (ATC) 2023
 	- Bernhard Heinloth, Peter Wägemann, Wolfgang Schröder-Preikschat
