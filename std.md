@@ -137,6 +137,8 @@
 
 ### C++26: Trip Reports: 2026-03
 
+- C++26 is done! — Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)
+	- https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/
 - Report from the Croydon 2026 ISO C++ Committee meeting
 	- https://mpusz.github.io/mp-units/HEAD/blog/2026/03/28/report-from-the-croydon-2026-iso-c-committee-meeting/
 
