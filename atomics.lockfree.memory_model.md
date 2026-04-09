@@ -987,6 +987,13 @@
 
 ### 2025
 
+- Beyond Sequential Consistency: Leveraging Atomics for Fun & Profit
+	- Christopher Fretz C++Now
+	- CppCon 2025
+		- https://www.youtube.com/watch?v=6AnHbZbLr2o
+	- C++Now 2025
+		- https://www.youtube.com/watch?v=qNs0_kKpcIA
+		- https://github.com/boostcon/cppnow_presentations_2025/blob/main/Presentations/Beyond_Sequential_Consistency.pptx
 - Implementing Your Own Atomics
 	- CppCon 2025
 	- Ben Saks
