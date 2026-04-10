@@ -319,6 +319,8 @@ BTF: BPF Type Format
 	- Samy Al Bahra
 	- https://documentation.backtrace.io/dwarf/
 	- https://help.backtrace.io/en/articles/1716990-dwarf
+- DWARF Support for SIMD/SIMT
+	- https://github.com/ccoutant/dwarf-locations
 - Exploring the DWARF debug format information - https://www.ibm.com/developerworks/aix/library/au-dwarf-debug-format/index.html
 - From Debugging-Information Based Binary-Level Type Inference to CFG Generation
 	- Conference on Data and Application Security and Privacy (CODASPY) 2018
