@@ -22,6 +22,10 @@ See also: [Debugging](https://github.com/MattPD/cpplinks/blob/master/debugging.m
 	- 2023
 	- Tristan Hume
 	- https://thume.ca/2023/12/02/tracing-methods/
+- Applied Reverse Engineering: Crude T&E (trap-and-emulate) for Control-Flow Tracing
+	- 2026
+	- Daax
+	- https://revers.engineering/applied-re-crude-te-for-control-flow-tracing/
 - Debug your programs like they're closed source! (strace, ltrace)
 	- 2014
 	- Julia Evans
