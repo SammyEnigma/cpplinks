@@ -25,7 +25,7 @@ See also:
 	- [OS-specific](#os-specific): [iOS](#iOS), [Linux](#linux), [macOS](#macos), [Windows](#windows) - [WinDbg](#windbg)
 	- [Crash Analysis & Reporting](#crash-analysis--reporting)
 - [Stack Trace & Unwinding](#stack-trace--unwinding)
-- [Talks](#talks): [2023](#2023), [2021](#2021), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014)
+- [Talks](#talks): [2025](#2025), [2023](#2023), [2021](#2021), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014)
 
 ---
 
@@ -1828,6 +1828,14 @@ See also: [RR](#rr), [WinDbg - Time Travel Debugging](https://github.com/MattPD/
 ---
 
 # Talks
+
+## 2025
+
+- How Debuggers Work
+	- GOTO 2025
+	- Sy Brand
+	- https://www.youtube.com/watch?v=-czq9nJQops
+	- https://gotocph.com/2025/sessions/3629/how-debuggers-work
 
 ## 2023
 
