@@ -1942,7 +1942,7 @@ Validation: Including translation validation, equivalence checking.
 	- Carl Friedrich Bolz-Tereick
 	- https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html
 - GCC Translation Validation
-	- 2022-2023
+	- 2022-2026
 	- Krister Walfridsson
 	- https://kristerw.github.io/2022/09/13/translation-validation/
 	- pysmtgcc: Some experiments with SMT solvers and GIMPLE IR
@@ -1959,6 +1959,8 @@ Validation: Including translation validation, equivalence checking.
 		- https://kristerw.github.io/2023/07/18/address-calculations/
 	- Part 5: Pointer alignment
 		- https://kristerw.github.io/2023/07/20/pointer-alignment/
+	- Part 6: Uninitialized memory
+		- https://kristerw.github.io/2026/04/10/uninitialized-memory/
 - SMT-Based Translation Validation for Machine Learning Compiler
 	- CAV 2022: Computer Aided Verification
 	- Seongwon Bang, Seunghyeon Nam, Inwhan Chun, Ho Young Jhoo, Juneyoung Lee
