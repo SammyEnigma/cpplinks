@@ -62,6 +62,11 @@ See also: [Computer Architecture](comparch.md)
 
 ## General: 2026
 
+- Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks
+	- Network and Distributed System Security Symposium (NDSS) 2026
+	- Wei Shao, Najmeh Nazari, Behnam Omidi, Setareh Rafatirad, Khaled N. Khasawneh, Houman Homayoun, Chongzhou Fang
+	- https://www.ndss-symposium.org/ndss-paper/bit-of-a-close-talker-a-practical-guide-to-serverless-cloud-co-location-attacks/
+	- https://arxiv.org/abs/2512.10361
 - Memory DisOrder: Memory Re-orderings as a Timerless Side-channel
 	- 2026
 	- Sean Siddens, Sanya Srivastava, Reese Levine, Josiah Dykstra, Tyler Sorensen
