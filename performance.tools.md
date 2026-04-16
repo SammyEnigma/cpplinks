@@ -30,6 +30,13 @@
 	- https://gitlab.com/JamieTheRiveter/bestguess
 - Celero
 	- https://github.com/DigitalInBlue/Celero
+- CTRACK: benchmarking and tracking library for C++ projects
+	- https://github.com/Compaile/ctrack
+	- CTRACK: C++ Performance Tracking and Bottleneck Discovery
+		- CppCon 2025
+		- Grischa Hauser
+		- https://www.youtube.com/watch?v=en4OQvZePqg
+		- https://github.com/CppCon/CppCon2025/blob/main/Presentations/CTRACK.pdf
 - hayai: the C++ benchmarking framework
 	- https://github.com/nickbruun/hayai
 - HdrHistogram: A High Dynamic Range (HDR) Histogram
