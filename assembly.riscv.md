@@ -587,6 +587,11 @@ https://riscv.org/specifications/
 - RISC-V Instructions
 	- riscv-instr-encoding spreadsheet: a compact overview of the available instructions, their grouping, the encoding, etc.
 	- https://www.akkadia.org/drepper/risc-v-instructions.html
+- RISC-V ISA Manual — Docusaurus Site
+	- (Unofficial) RISC-V ISA Manual
+	- A searchable, navigable web rendition of the RISC-V ISA Manual
+	- https://riscv.houmus.org/
+	- https://github.com/damageboy/docusaurus-riscv-isa
 - RISC-V Reference Card: An unofficial reference sheet for RISC-V
 	- https://github.com/jameslzhu/riscv-card
 	- https://github.com/jameslzhu/riscv-card/blob/master/riscv-card.pdf
