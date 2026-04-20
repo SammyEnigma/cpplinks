@@ -1890,6 +1890,13 @@ Validation: Including translation validation, equivalence checking.
 	- Abhishek Rose
 	- https://sorav.compiler.ai/pubs/abhishek_rose_thesis.pdf
 	- https://sorav.compiler.ai/pubs/abhishek_rose_viva.pdf
+- Translation Validation for LLVM’s AArch64 Backend
+	- OOPSLA 2025
+	- Ryan Berger, Mitch Briles, Nader Boushehrinejad Moradi, Nicholas Coughlin, Kait Lam, Nuno P. Lopes, Stefan Mada, Tanmay Tirpankar, John Regehr
+	- https://doi.org/10.1145/3763147
+	- https://users.cs.utah.edu/~regehr/papers/arm-tv.pdf
+	- https://www.youtube.com/watch?v=EFywX-qFbyA
+	- https://github.com/regehr/alive2/tree/arm-tv
 
 ## Validation: 2024
 
