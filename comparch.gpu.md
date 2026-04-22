@@ -95,6 +95,10 @@ See also: [computer architecture](comparch.md)
 
 - MSCCL++: A GPU-driven communication stack for scalable AI applications
 	- https://github.com/microsoft/mscclpp
+- UCCL: Ultra and Unified Collective Communication Library
+	- an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)
+	- https://github.com/uccl-project/uccl
+	- https://uccl-project.github.io/
 
 ### Communication: Software: AMD
 
