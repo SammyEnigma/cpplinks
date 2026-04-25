@@ -3244,6 +3244,18 @@ https://software.intel.com/security-software-guidance/insights/refined-speculati
 	- 2026 IEEE Symposium on Security and Privacy (S&P)
 	- Ping-Lun Wang, Fraser Brown, Eyal Ronen, Riccardo Paccagnella, Riad S. Wahby, Yuval Yarom
 	- https://doi.ieeecomputersociety.org/10.1109/SP63933.2026.00066
+- TREVEX: A Black-Box Detection Framework For Data-Flow Transient Execution Vulnerabilities
+	- IEEE Symposium on Security and Privacy (S&P) 2026
+	- Daniel Weber, Fabian Thomas, Leon Trampert, Ruiyi Zhang, Michael Schwarz
+	- https://roots.ec/publications/weber2026trevex/
+	- TREVEX: The Transient Execution Vulnerability Explorer
+		- https://github.com/cispa/trevex
+	- FP-DSS: Floating Point Divider State Sampling
+		- https://roots.ec/blog/fpdss/
+	- Floating Point Value Injection (FPVI) Variant in AMD CPUs
+		- https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7050.html
+	- Floating Point Divider State Sampling on AMD CPUs
+		- https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7053.html
 
 ## Speculation: 2025
 
