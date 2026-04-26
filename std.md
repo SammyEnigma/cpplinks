@@ -238,6 +238,11 @@
 			- http://crystalclearsoftware.com/2021cppcon/cpp23lib.pdf
 	- Meeting C++ 2021
 		- https://www.youtube.com/watch?v=rTVQe7zVQUw
+- C++23 Tools you will actually use
+	- Core C++ 2025
+	- Alex Dathskovsky
+	- https://www.youtube.com/watch?v=pxjQAsZFFDY
+	- https://corecppil.github.io/conf/2025/Alex%20Dathskovsky%20-%20C++23%20tools%20that%20you%20will%20actually%20use.pdf
 - C++23: An Overview of Almost All New and Updated Features
 	- CppCon 2023
 	- Marc Gregoire
