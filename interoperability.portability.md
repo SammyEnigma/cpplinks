@@ -116,6 +116,9 @@
 	- https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/
 - How the GNU C Library handles backward compatibility
 	- https://developers.redhat.com/blog/2019/08/01/how-the-gnu-c-library-handles-backward-compatibility
+- How Virtual Tables Work in the Itanium C++ ABI
+	- 2026-02-28; Peter Damianov
+	- https://peter0x44.github.io/posts/vtables-itanium-abi/
 - Itanium C++ ABI
 	- https://itanium-cxx-abi.github.io/cxx-abi/
 	- https://github.com/itanium-cxx-abi/cxx-abi
