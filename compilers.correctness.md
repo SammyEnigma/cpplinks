@@ -694,6 +694,11 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md)
 	- https://doi.org/10.1109/ICSE55347.2025.00025
 	- OPERA (OPERator Adapter) a migration-based technique to test DL (Deep Learning) compilers (especially the model loading stage)
 	- https://github.com/ShenQingchao/OPERA
+- An Empirical Study of Bugs in the rustc Compiler
+	- SPLASH/OOPSLA 2025 
+	- Zixi Liu, Yang Feng, Yunbo Ni, Shaohua Li, Xizhe Yin, Qingkai Shi, Baowen Xu, Zhendong Su
+	- https://doi.org/10.1145/3763800
+	- https://arxiv.org/abs/2503.23985
 - Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration
 	- International Conference on Automated Software Engineering (ASE) 2025
 	- Jingjing Liang, Shan Huang, Ting Su
