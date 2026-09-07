@@ -3262,6 +3262,12 @@ https://software.intel.com/security-software-guidance/insights/refined-speculati
 		- 2025
 		- Ali Saidi, Moritz Lipp, Filippo Sironi
 		- https://aws.amazon.com/blogs/security/ec2-defenses-against-l1tf-reloaded/
+- Spectre on RISC-V Silicon: Attacks and Defenses on Commercial Out-of-Order Processors
+	- USENIX Security 2026
+	- Lukas Gerlach, Marton Bognar, Daniel Weber, Michael Schwarz, Jo Van Bulck
+	- https://www.usenix.org/conference/usenixsecurity26/presentation/gerlach
+	- https://github.com/s8lvg/riscv-spectre-artifact/
+	- https://misc0110.net/files/riscvspectre_sec26.pdf
 - Transient Architectural Execution: from Weird Gates to Weird Programs
 	- 2026 IEEE Symposium on Security and Privacy (S&P)
 	- Ping-Lun Wang, Fraser Brown, Eyal Ronen, Riccardo Paccagnella, Riad S. Wahby, Yuval Yarom
