@@ -143,6 +143,13 @@ https://0xax.github.io/categories/assembly/
 
 ## Instruction Set Architecture: Formalization
 
+- Intel 64 and IA-32 Architectures Software Developer’s Manual
+	- https://intel.github.io/SDM/sdm.html
+	- https://github.com/intel/SDM
+	- The Intel ISA Specification Language: ISA tools
+		- https://github.com/IntelLabs/isa-tools
+		- ISA Interpreter: Interpreter and compiler for the ISA specification language "Architecture Specification Language" (ASL)
+			- https://intellabs.github.io/isa-tools/
 - A Complete Formal Semantics of x86-64 User-Level Instruction Set Architecture
 	- PLDI 2019
 	- Sandeep Dasgupta, Daejun Park, Theodoros Kasampalis, Vikram S. Adve, Grigore Roşu
