@@ -1979,6 +1979,9 @@ Validation: Including translation validation, equivalence checking.
 	- https://users.cs.utah.edu/~regehr/papers/arm-tv.pdf
 	- https://www.youtube.com/watch?v=EFywX-qFbyA
 	- https://github.com/regehr/alive2/tree/arm-tv
+	- Translation Validation for LLVM’s AArch64 and RISC-V Backends
+		- Formally Speaking 2026; John Regehr
+		- https://www.youtube.com/watch?v=drQT08mP9X0
 
 ## Validation: 2024
 
