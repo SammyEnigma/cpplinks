@@ -482,6 +482,9 @@ Compiler-Based Static Instrumentation
 	- https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/
 	- llvm-sanitizer-tutorial and documentation
 		- https://github.com/trailofbits/llvm-sanitizer-tutorial
+- Data races and the limits of ThreadSanitizer in C and Go
+	- 2026; Phil Eaton
+	- https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html
 - GWP-ASan
 	- https://llvm.org/docs/GwpAsan.html
 	- GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production
