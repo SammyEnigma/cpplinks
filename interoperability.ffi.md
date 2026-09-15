@@ -103,6 +103,12 @@
 	- AsiaCCS 2026
 	- Sai Venkata Krishnan, Arjun Menon, Chester Rebeiro, KC Sivaramakrishnan
 	- https://kcsrk.info/papers/fides_asiaccs_2026.pdf
+- Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine
+	- USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2026
+	- Abhishek Sharma, Anand Balaji, Zachary Yedidia, Anthony Du, Taehyun Noh, Iain Ireland, Jan de Mooij, Matthew Gaudet, Tal Garfinkel, Deian Stefan, Hovav Shacham, Shravan Narayan
+	- https://www.usenix.org/conference/osdi26/presentation/sharma
+	- Firefox JavaScript Sandbox monorepo
+		- https://github.com/UT-Security/mohabi-root
 
 ### General: Readings: Verification
 
